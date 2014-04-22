@@ -4,7 +4,7 @@
  * @api private
  */
 
-var index = require('indexof');
+var index = require('component-indexof');
 
 
 /**
